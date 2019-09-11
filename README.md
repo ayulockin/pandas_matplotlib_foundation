@@ -1,2 +1,3 @@
-# Pandas_Foundation
-Contains notebook used during my Pandas session. 
+# Introduction to Pandas and Matplotlib
+
+Use this repository to get some introduction about Pandas and Matplotib.
